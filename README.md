@@ -13,7 +13,7 @@ This is a simple personal portfolio website created using HTML, CSS, and JavaScr
 
 1. Clone the repository
 2. Open `index.html` in your browser to view the portfolio
-
+3. Pull request
 ## License
 
 This project is licensed under the MIT License.
